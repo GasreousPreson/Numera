@@ -68,8 +68,7 @@ The empty square between the two pieces is controlled by both players.
 
 Example:
 
-3️⃣4️⃣       3⃣️ □
-           □ 4⃣️
+3️⃣4️⃣                
 
 The two occupied squares are controlled by both players.
 
