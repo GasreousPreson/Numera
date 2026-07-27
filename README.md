@@ -30,11 +30,7 @@ Below is a brief introduction to the board and rules.
 
 ## End of the Game
 
-After **9 rounds (18 moves)**, either player may choose to **Pass** instead of placing a piece.
-
-- Each player may pass **up to three times**.
-- If both players pass consecutively, the game ends immediately.
-- The game also ends when both players have placed all of their pieces.
+- The game ends when both players have placed all of their pieces.
 
 ---
 
@@ -72,9 +68,10 @@ The empty square between the two pieces is controlled by both players.
 
 Example:
 
-3️⃣4️⃣
+3️⃣4️⃣       3⃣️ □
+           □ 4⃣️
 
 The two occupied squares are controlled by both players.
 
 - Both occupied squares are awarded to the player with the **higher-numbered piece**.
-- If the numbers are equal, both players score both occupied squares.
+- The player who owns **smaller-numbered piece** will lost this two spatial scores
