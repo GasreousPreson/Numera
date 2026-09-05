@@ -1,14 +1,14 @@
-# Numera
+# Numerith
 Numera is an innovational board game with Numerical territory battles
 
-In **Numera**, two players compete for territory using a limited set of numbered pieces.  
+In **Numerith**, two players compete for territory using a limited set of numbered pieces.  
 Higher numbers can overpower the territory controlled by lower numbers.  
 Deciding **when to commit high-value pieces, when to conserve them, and how to maximize territorial control** forms the strategic philosophy of the game.
 
 Below is a brief introduction to the board and rules.
 
 ## Board
-- Board size: **10 × 10**
+- Board size: **9 × 9**
 
 ## Pieces
 - Each player has **two complete sets of numbered pieces from 1 to 9**, for a total of **18 pieces per player (36 pieces in total).**
